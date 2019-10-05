@@ -1,6 +1,6 @@
 # Skrebets.github.io
 
-*version 0.0.1*
+*version 0.0.5*
 
 ## Description
 
@@ -16,6 +16,5 @@ A list of technologies which are used in project:
 
 1. HTML 5
 2. CSS 3
-3. JavaScript
 4. GIT
 
